@@ -1,6 +1,3 @@
-//Bus booking system by E003 Aditi Ahuja, E011 Divinia Dsouza, E019 Rajrishi Gautum, E023 Bhavya Grover
-
-
 #include <iostream>
 #include <string.h>
 using namespace std;
